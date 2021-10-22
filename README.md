@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    https://github.com/rocketseat-education/nlw-06-reactjs/raw/master/.github/cover.svg
+    <img alt="Letmeask" src="https://github.com/rocketseat-education/nlw-06-reactjs/raw/master/.github/cover.svg" style="max-width: 100%;">
 </h1>
 
 <br>
